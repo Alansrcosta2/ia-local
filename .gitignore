@@ -1,0 +1,7 @@
+.venv/
+notas/
+textos/
+exemplos/
+__pycache__/
+*.pyc
+models/indra-ocr/.cache/
